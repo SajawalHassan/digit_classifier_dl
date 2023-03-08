@@ -20,9 +20,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -55,14 +52,6 @@ Here are the things I used to build this project
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-Everything will already be installed in the colab machine!
-
-### Installation
 
 Just click on the digit_classifier.ipynb and there will be a link to open in colab. Just click it and you're done!
 
